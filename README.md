@@ -3,7 +3,8 @@ A 1st-year **Computer Engineering** student @ **UC Irvine** _(zotzotzot!)_ from 
 
 ### 🌱 I’m currently learning ...
 __UC Irvine__ 🐜 🥣
-- EECS31 - Introduction to Digital Systems
+- EECS40 - Object-Oriented Systems and Programming
+- EECS22L - Advanced C Programming
 
 ### 🔭 I’m currently working on ...
 - Learning HTML/CSS
