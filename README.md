@@ -1,5 +1,5 @@
 ## Hi, I'm [Shana Chao](https://www.linkedin.com/in/shanachao/)!
-A rising 3rd-year **Computer Engineering** student @ **UC Irvine** _(zotzotzot!)_ from Union City, California. 
+A 3rd-year **Computer Engineering** student @ **UC Irvine** _(zotzotzot!)_ from Union City, California. 
 
 ### 🌱 I’m currently learning ...
 __UC Irvine__ 🐜 🥣
